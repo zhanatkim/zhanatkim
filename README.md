@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zhanatkim
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me zhanatkim@gmail.com
 
